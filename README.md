@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ceh.harshit@gmail.com**
 
-- 📄 Know about my experiences [https://aquamarine-olwen-26.tiiny.site](https://aquamarine-olwen-26.tiiny.site)
+- 📄 Know about my experiences [Portfolio](https://harshit-singh.framer.ai/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
