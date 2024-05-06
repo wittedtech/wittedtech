@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **DSA (Data Structure & Algorithms).**
 
-- 👨‍💻 All of my projects are available at [https://wittedtech.github.io/gitprofile/](https://wittedtech.github.io/gitprofile/)
+- 👨‍💻 All of my projects are available at [GitProfile-Portfolio](https://wittedtech.github.io/gitprofile/)
 
 - 💬 Ask me about **Java, JavaScript, Web-Dev, DSA.**
 
 - 📫 How to reach me **sdeharshit@gmail.com**
 
-- 📄 Know about my experiences [https://harshit-singh.framer.ai/](https://harshit-singh.framer.ai/)
+- 📄 Know about my experiences [Framer-Portfolio](https://harshit-singh.framer.ai/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.alphakunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.alphakunwar" height="30" width="40" /></a>
+<a href="https://dev.to/wittedtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dwittedtech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-singh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-singh01" height="30" width="40" /></a>
 <a href="https://fb.com/0kunwar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0kunwar0" height="30" width="40" /></a>
 <a href="https://instagram.com/___kunwar___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kunwar___" height="30" width="40" /></a>
