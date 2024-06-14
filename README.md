@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitProfile-Portfolio](https://wittedtech.github.io/gitprofile/)
 
-- 💬 Ask me about **Java, JavaScript, Web-Dev, DSA.**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, Web-Dev, DSA.**
 
 - 📫 How to reach me **sdeharshit@gmail.com**
 
