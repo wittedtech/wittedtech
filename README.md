@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wittedtech" alt="wittedtech" /></a> </p>
 
 - 🌱 I’m currently learning **DSA (Data Structure & Algorithms).**
-- 📋 Read My Blogs and Articles [wittedtech-by-harshit]([https://wittedtech.github.io/gitprofile/](https://dev.to/wittedtech-by-harshit))
+- 📋 Read My Blogs and Articles [wittedtech-by-harshit](https://dev.to/wittedtech-by-harshit)
 
 - 👨‍💻 All of my projects are available at [GitProfile-Portfolio](https://wittedtech.github.io/gitprofile/)
 
