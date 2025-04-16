@@ -1,15 +1,12 @@
 <div align="center">
-  <!-- Theme-Specific Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[INSERT_BANNER_DARK_IMAGE_LINK]" />
-    <img src="[INSERT_BANNER_LIGHT_IMAGE_LINK]" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
-  </picture>
+  <!-- Custom Banner Placeholder -->
+  <img src="https://github.com/wittedtech/wittedtech/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
 
   <h1>👋 Hello, I'm Harshit Singh</h1>
-  <h3>Full-Stack Java Developer | DevTools Enthusiast | Technical Blogger</h3>
+  <h3>Full-Stack Java Developer | Technical Blogger</h3>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=500&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Building+Velocis+Digital+Framework+(VDF);Technical+Blogger+%E2%9C%A9;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000¢er=true&width=700&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
   </p>
 
   <p>
@@ -22,7 +19,7 @@
     <a href="https://harshit-singh.framer.ai/"><img src="https://img.shields.io/badge/-Portfolio-FF6C37?style=flat-square&logo=framer&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:sdeharshit@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/harshitsingh-wittedtech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="[INSERT_TWITTER_LINK]"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
+    <a href="https://x.com/harshitsinghHS"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
     <a href="https://github.com/sponsors/wittedtech"><img src="https://img.shields.io/badge/-Sponsor_Me-FF4500?style=flat-square&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" /></a>
   </p>
 
@@ -104,43 +101,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=github_light&hide_border=true" width="48%" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=github_light&hide_border=true" width="48%" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_light&hide_border=true&langs_count=10" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🔥 Contribution Graph
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=radical" />
-    <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=github" alt="Contribution Graph" />
-  </picture>
+  <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=radical" alt="Contribution Graph" />
 </div>
 
 ---
@@ -170,11 +150,11 @@
 <div align="center">
   <a href="https://dev.to/wittedtech-by-harshit"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://www.linkedin.com/in/harshitsingh-wittedtech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/___kunwar___"><img src="https://img.shields.io/badge/-Personal_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Personal Instagram" /></a>
-  <a href="https://www.instagram.com/witted.tech/"><img src="https://img.shields.io/badge/-Professional_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Professional Instagram" /></a>
+  <a href="https://www.instagram.com/___kunwar___"><img src="https://img.shields.io/badge/-Personal_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Harshit Singh Instagram" /></a>
+  <a href="https://www.instagram.com/witted.tech/"><img src="https://img.shields.io/badge/-Professional_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Witted.Tech Instagram" /></a>
   <a href="https://www.youtube.com/@wittedtech"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://leetcode.com/u/0_Alpha_0/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="[INSERT_TWITTER_LINK]"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <a href="https://x.com/harshitsinghHS"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
 </div>
 
 ---
