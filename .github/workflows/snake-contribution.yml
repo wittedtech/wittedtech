@@ -1,0 +1,29 @@
+name: Generate Snake Contribution Graph
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: wittedtech
+          outputs: |
+            output/snake.svg
+            output/snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-svg
+          path: output/
+      - name: Push to Repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/snake*.svg
+          git commit -m "Update Snake Contribution Graph"
+          git push
