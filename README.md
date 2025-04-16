@@ -1,6 +1,9 @@
 <div align="center">
-  <!-- Custom Banner Placeholder -->
-  <img src="https://github.com/wittedtech/wittedtech/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
+  <!-- Theme-Specific Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wittedtech/wittedtech/raw/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner-dark.png" />
+    <img src="https://github.com/wittedtech/wittedtech/raw/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
+  </picture>
 
   <h1>👋 Hello, I'm Harshit Singh</h1>
   <h3>Full-Stack Java Developer | Technical Blogger</h3>
@@ -101,27 +104,46 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical" alt="GitHub Streak" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=github_light&hide_border=true" width="48%" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=github_light&hide_border=true" width="48%" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_light&hide_border=true&langs_count=10" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🐍 Snake Eating Contribution Graph
+
 <div align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=radical" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wittedtech/wittedtech/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/wittedtech/wittedtech/output/snake.svg" alt="Snake Contribution Graph" />
+  </picture>
 </div>
+
+> 💡 *Pro Tip*: The Snake Eating Contribution Graph is generated using the [Snake Action](https://github.com/Platane/snk). Follow the steps below to automate its updates.
 
 ---
 
