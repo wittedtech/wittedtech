@@ -102,7 +102,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
