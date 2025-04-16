@@ -6,7 +6,7 @@
   <h3>Full-Stack Java Developer | Technical Blogger</h3>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000¢er=true&width=700&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000¢er=true&width=650&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
   </p>
 
   <p>
