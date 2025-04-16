@@ -136,15 +136,7 @@
 
 ## 🐍 Snake Eating Contribution Graph
 
-  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
-<div align="center">
-  <!--
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wittedtech/wittedtech/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/wittedtech/wittedtech/output/snake.svg" alt="Snake Contribution Graph" />
-  </picture>
-  -->
-</div>
+  ![Snake animation](https://github.com/wittedtech/wittedtech/blob/output/github-contribution-grid-snake.svg)
 
 > 💡 *Pro Tip*: The Snake Eating Contribution Graph is generated using the [Snake Action](https://github.com/Platane/snk). Follow the steps below to automate its updates.
 
