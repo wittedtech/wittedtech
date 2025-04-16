@@ -1,34 +1,111 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Full-Stack Java Developer | Devtools Enthusiast | Technical Blogger</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wittedtech&label=Profile%20views&color=0e75b6&style=flat" alt="wittedtech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wittedtech" alt="wittedtech" /></a> </p>
-
-- 🌱 I’m currently learning **DSA (Data Structure & Algorithms).**
-- 📋 Read My Blogs and Articles [wittedtech-by-harshit](https://dev.to/wittedtech-by-harshit)
-
-- 👨‍💻 All of my projects are available at [GitProfile-Portfolio](https://wittedtech.github.io/gitprofile/)
-
-- 💬 Ask me about **Java, Spring Boot, JavaScript, Web-Dev, DSA.**
-
-- 📫 How to reach me **sdeharshit@gmail.com**
-
-- 📄 Know about my experiences [Framer-Portfolio](https://harshit-singh.framer.ai/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/wittedtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dwittedtech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-singh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-singh01" height="30" width="40" /></a>
-<a href="https://fb.com/0kunwar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="0kunwar0" height="30" width="40" /></a>
-<a href="https://instagram.com/___kunwar___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___kunwar___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wittedtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wittedtech" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/0_alpha_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0_alpha_0" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka+%7C+Next.js+Lover;Building+Velocis+Digital+Framework+(VDF);Technical+blogger+%E2%9C%A9;DSA+%7C+System+Design+%7C+Clean+Architecture+%7C+Security" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wittedtech&label=Profile%20views&color=0e75b6&style=flat" alt="wittedtech" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/wittedtech?label=Followers&style=social" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/wittedtech?style=social">
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wittedtech&show_icons=true&locale=en&layout=compact" alt="wittedtech" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wittedtech&" alt="wittedtech" /></p>
+### 🚀 About Me
+- 🧠 Currently learning **Spring Security**, **JWT**, and **Microservices**
+- 🛠️ Working on **Velocis Digital Framework (VDF)** – a full-fledged low-code CMS for enterprise
+- ✍️ I write Java + Spring Boot blogs on [Dev.to](https://dev.to/wittedtech-by-harshit)
+- 💬 Ask me about anything Java | Spring Boot | Hibernate | DSA | System Design
+- 📫 Reach out: **sdeharshit@gmail.com**
+- 📄 My Portfolio: [Framer Site](https://harshit-singh.framer.ai/) | [GitProfile Portfolio](https://wittedtech.github.io/gitprofile/)
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 👨‍💻 Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+#### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+#### 🗃️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/-H2%20Database-blue?style=for-the-badge)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![STS](https://img.shields.io/badge/-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+</p>
+
+---
+
+### 🔥 Contribution Calendar
+<p align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=github-dark" alt="Contribution Calendar" />
+</p>
+
+---
+
+### 📰 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace this with real-time blog fetch if using a GitHub Action -->
+- [🚀 Spring Boot Security: Complete JWT Auth Guide](https://dev.to/wittedtech-by-harshit)
+- [🔐 Mastering Basic Auth in Spring Security](https://dev.to/wittedtech-by-harshit)
+- [🌐 Version Management Strategy in Spring Boot CMS](https://dev.to/wittedtech-by-harshit)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **Velocis Digital Framework (VDF)** | Enterprise-level low-code CMS platform with full version management | Java, Spring Boot, PostgreSQL, Docker | _Internal Project_ |
+| **Dev Portfolio** | Developer portfolio built with Framer and GitHub integration | Framer, JS, GitHub API | [🔗 View Site](https://harshit-singh.framer.ai/) |
+| **SecureAuth Spring Security** | Spring Security JWT-based login system with full auth lifecycle | Java, Spring Boot, H2, JWT | [🔗 GitHub](https://github.com/wittedtech) |
+| **Java Interview Series** | Detailed series on tricky Java, Spring, DSA questions | Markdown, GitHub Pages | [🔗 GitProfile](https://wittedtech.github.io/gitprofile/) |
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://dev.to/wittedtech"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/harshit-singh01"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/___kunwar___"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/wittedtech"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://leetcode.com/0_alpha_0"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+> “Crafting clean code, designing scalable systems, and sharing knowledge — one line at a time.” ☕🚀
