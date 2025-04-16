@@ -148,11 +148,7 @@
 ---
 
 ## 📰 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Template Processing in Spring Boot: Under the Hood - A Deep Dive](https://dev.to/wittedtech-by-harshit/template-processing-in-spring-boot-under-the-hood-a-deep-dive-4fl5)
-- [🔐 Evolution of Spring: Explained Like a Blockbuster Movie Marathon](https://dev.to/wittedtech-by-harshit/evolution-of-spring-explained-like-a-blockbuster-movie-marathon-22lk)
-- [🌐 GraalVM: The Swiss Army Knife of the JVM World](https://dev.to/wittedtech-by-harshit/graalvm-the-swiss-army-knife-of-the-jvm-world-2h9a)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Template Processing in Spring Boot: Under the Hood – A Deep Dive! 🚀](https://dev.to/wittedtech-by-harshit/template-processing-in-spring-boot-under-the-hood-a-deep-dive-4fl5)- [Evolution of Spring Explained Like a Blockbuster Movie Marathon](https://dev.to/wittedtech-by-harshit/evolution-of-spring-explained-like-a-blockbuster-movie-marathon-22lk)- [GraalVM: The Swiss Army Knife of the JVM World](https://dev.to/wittedtech-by-harshit/graalvm-the-swiss-army-knife-of-the-jvm-world-2h9a)<!-- BLOG-POST-LIST:END -->
 
 > 💡 *Pro Tip*: This section is set up for automation using the [Dev.to Posts GitHub Action](https://github.com/marketplace/actions/devto-posts). Follow the steps below to automate your blog updates.
 
