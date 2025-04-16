@@ -1,111 +1,164 @@
-<h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">Full-Stack Java Developer | Devtools Enthusiast | Technical Blogger</h3>
+<div align="center">
+  <!-- Custom Banner Placeholder -->
+  <img src="[INSERT_BANNER_IMAGE_LINK]" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka+%7C+Next.js+Lover;Building+Velocis+Digital+Framework+(VDF);Technical+blogger+%E2%9C%A9;DSA+%7C+System+Design+%7C+Clean+Architecture+%7C+Security" alt="Typing SVG" />
+  <h1>👋 Hello, I'm Harshit Singh</h1>
+  <h3>Full-Stack Java Developer | DevTools Enthusiast | Technical Blogger</h3>
+
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000¢er=true&width=500&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Building+Velocis+Digital+Framework+(VDF);Technical+Blogger+%E2%9C%A9;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wittedtech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/wittedtech?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/wittedtech?label=Stars&style=social" alt="GitHub Stars" />
+  </p>
+
+  <p>
+    <a href="https://harshit-singh.framer.ai/"><img src="https://img.shields.io/badge/-Portfolio-FF6C37?style=flat-square&logo=framer&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:sdeharshit@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/harshitsingh-wittedtech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="[INSERT_TWITTER_LINK]"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
+    <a href="https://github.com/sponsors/wittedtech"><img src="https://img.shields.io/badge/-Sponsor_Me-FF4500?style=flat-square&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  </p>
+
+  <!-- License Badge -->
+  <p>
+    <img src="https://img.shields.io/github/license/wittedtech/gitprofile?style=flat-square" alt="License" />
+  </p>
+
+  <!-- Certifications -->
+  <h3>📜 Certifications</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-AWS_Certified_Developer-FF9900?style=flat-square&logo=amazonaws" alt="AWS Certified Developer" />
+    <img src="https://img.shields.io/badge/-Oracle_Java_SE-F80000?style=flat-square&logo=oracle" alt="Oracle Java SE" />
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+- 🔭 **Currently Working On**: Velocis Digital Framework (VDF) – A low-code CMS for enterprise solutions.
+- 🌱 **Learning**: Spring Security, JWT, Microservices, and advanced System Design.
+- ✍️ **Blogging**: Sharing insights on Java, Spring Boot, and System Design at [Dev.to](https://dev.to/wittedtech-by-harshit).
+- 💬 **Ask Me About**: Java, Spring Boot, Hibernate, DSA, System Design, or Clean Architecture.
+- 📫 **Contact**: Reach me at **sdeharshit@gmail.com**.
+- ⚡ **Fun Fact**: I believe clean code is an art form, and coffee is my creative fuel! ☕
+
+---
+
+## 🔗 Quick Links
+- 🖥️ [Portfolio](https://harshit-singh.framer.ai/) – Explore my work and projects.
+- 📝 [Blog](https://dev.to/wittedtech-by-harshit) – Read my latest technical articles.
+- 💻 [GitHub](https://github.com/wittedtech) – Check out my repositories.
+- 📚 [GitProfile](https://wittedtech.github.io/gitprofile/) – My developer portfolio with GitHub integration.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate" alt="Hibernate" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wittedtech&label=Profile%20views&color=0e75b6&style=flat" alt="wittedtech" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/wittedtech?label=Followers&style=social" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/wittedtech?style=social">
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-H2_Database-007ACC?style=flat-square" alt="H2 Database" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Spring_Tool_Suite-6DB33F?style=flat-square&logo=spring" alt="Spring Tool Suite" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🧠 Currently learning **Spring Security**, **JWT**, and **Microservices**
-- 🛠️ Working on **Velocis Digital Framework (VDF)** – a full-fledged low-code CMS for enterprise
-- ✍️ I write Java + Spring Boot blogs on [Dev.to](https://dev.to/wittedtech-by-harshit)
-- 💬 Ask me about anything Java | Spring Boot | Hibernate | DSA | System Design
-- 📫 Reach out: **sdeharshit@gmail.com**
-- 📄 My Portfolio: [Framer Site](https://harshit-singh.framer.ai/) | [GitProfile Portfolio](https://wittedtech.github.io/gitprofile/)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-
-#### 👨‍💻 Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-#### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-#### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/-H2%20Database-blue?style=for-the-badge)
-
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![STS](https://img.shields.io/badge/-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-</p>
+## 🔥 Contribution Graph
+<div align="center">
+  <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=radical" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 🔥 Contribution Calendar
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=github-dark" alt="Contribution Calendar" />
-</p>
-
----
-
-### 📰 Latest Blog Posts
+## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- Replace this with real-time blog fetch if using a GitHub Action -->
-- [🚀 Spring Boot Security: Complete JWT Auth Guide](https://dev.to/wittedtech-by-harshit)
-- [🔐 Mastering Basic Auth in Spring Security](https://dev.to/wittedtech-by-harshit)
-- [🌐 Version Management Strategy in Spring Boot CMS](https://dev.to/wittedtech-by-harshit)
+- [🚀 Template Processing in Spring Boot: Under the Hood - A Deep Dive](https://dev.to/wittedtech-by-harshit/template-processing-in-spring-boot-under-the-hood-a-deep-dive-4fl5)
+- [🔐 Evolution of Spring: Explained Like a Blockbuster Movie Marathon](https://dev.to/wittedtech-by-harshit/evolution-of-spring-explained-like-a-blockbuster-movie-marathon-22lk)
+- [🌐 GraalVM: The Swiss Army Knife of the JVM World](https://dev.to/wittedtech-by-harshit/graalvm-the-swiss-army-knife-of-the-jvm-world-2h9a)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| **Velocis Digital Framework (VDF)** | Enterprise-level low-code CMS platform with full version management | Java, Spring Boot, PostgreSQL, Docker | _Internal Project_ |
-| **Dev Portfolio** | Developer portfolio built with Framer and GitHub integration | Framer, JS, GitHub API | [🔗 View Site](https://harshit-singh.framer.ai/) |
-| **SecureAuth Spring Security** | Spring Security JWT-based login system with full auth lifecycle | Java, Spring Boot, H2, JWT | [🔗 GitHub](https://github.com/wittedtech) |
-| **Java Interview Series** | Detailed series on tricky Java, Spring, DSA questions | Markdown, GitHub Pages | [🔗 GitProfile](https://wittedtech.github.io/gitprofile/) |
+> 💡 *Pro Tip*: This section is set up for automation using the [Dev.to Posts GitHub Action](https://github.com/marketplace/actions/devto-posts). Follow the steps below to automate your blog updates.
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://dev.to/wittedtech"><img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/harshit-singh01"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/___kunwar___"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/wittedtech"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://leetcode.com/0_alpha_0"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+| Project | Description | Tech Stack | Status | Link |
+|---------|-------------|------------|--------|------|
+| **Velocis Digital Framework (VDF)** | Enterprise-level low-code CMS with version management | Java, Spring Boot, PostgreSQL, Docker, Kafka | In Progress | Internal Project |
+| **Dev Portfolio** | Developer portfolio with Framer and GitHub integration | Framer, JavaScript, GitHub API | Live | [🔗 View Site](https://harshit-singh.framer.ai/) |
+| **Java Interview Series** | Guides on Java, Spring, and DSA interview questions | Markdown, GitHub Pages | Live | [🔗 GitProfile](https://wittedtech.github.io/gitprofile/) |
 
 ---
 
-> “Crafting clean code, designing scalable systems, and sharing knowledge — one line at a time.” ☕🚀
+## 📫 Connect with Me
+<div align="center">
+  <a href="https://dev.to/wittedtech-by-harshit"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://www.linkedin.com/in/harshitsingh-wittedtech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/___kunwar___"><img src="https://img.shields.io/badge/-Personal_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Personal Instagram" /></a>
+  <a href="https://www.instagram.com/witted.tech/"><img src="https://img.shields.io/badge/-Professional_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Professional Instagram" /></a>
+  <a href="https://www.youtube.com/@wittedtech"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://leetcode.com/u/0_Alpha_0/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="[INSERT_TWITTER_LINK]"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
+</div>
+
+---
+
+<div align="center">
+  <p>“Crafting clean code, designing scalable systems, and sharing knowledge — one line at a time.” ☕🚀</p>
+</div>
