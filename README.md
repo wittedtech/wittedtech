@@ -1,12 +1,15 @@
 <div align="center">
-  <!-- Custom Banner Placeholder -->
-  <img src="[INSERT_BANNER_IMAGE_LINK]" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
+  <!-- Theme-Specific Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[INSERT_BANNER_DARK_IMAGE_LINK]" />
+    <img src="[INSERT_BANNER_LIGHT_IMAGE_LINK]" alt="Harshit Singh Banner" width="100%" style="max-width: 800px;" />
+  </picture>
 
   <h1>👋 Hello, I'm Harshit Singh</h1>
   <h3>Full-Stack Java Developer | DevTools Enthusiast | Technical Blogger</h3>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000¢er=true&width=500&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Building+Velocis+Digital+Framework+(VDF);Technical+Blogger+%E2%9C%A9;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=500&lines=Java+%F0%9F%90%8D+%7C+Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kafka;Building+Velocis+Digital+Framework+(VDF);Technical+Blogger+%E2%9C%A9;Passionate+about+DSA+%7C+System+Design+%7C+Clean+Code" alt="Typing SVG" />
   </p>
 
   <p>
@@ -101,26 +104,43 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wittedtech&show_icons=true&theme=github_light&hide_border=true" width="48%" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=wittedtech&theme=github_light&hide_border=true" width="48%" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_light&hide_border=true&langs_count=10" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=radical&no-frame=true&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wittedtech&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 ---
 
 ## 🔥 Contribution Graph
+
 <div align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=radical" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=radical" />
+    <img src="https://github-contribution-grid.vercel.app/api?username=wittedtech&theme=github" alt="Contribution Graph" />
+  </picture>
 </div>
 
 ---
