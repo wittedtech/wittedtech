@@ -42,7 +42,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **Currently Working On**: Velocis Digital Framework (VDF) – A low-code CMS for enterprise solutions.
+- 🔭 **Currently Working On**: Upi-Switch in a Fintech Company: Which serves as an middleman for User to NPCI and NPCI to Bank CBS.
 - 🌱 **Learning**: Spring Security, JWT, Microservices, and advanced System Design.
 - ✍️ **Blogging**: Sharing insights on Java, Spring Boot, and System Design at [Dev.to](https://dev.to/wittedtech-by-harshit).
 - 💬 **Ask Me About**: Java, Spring Boot, Hibernate, DSA, System Design, or Clean Architecture.
