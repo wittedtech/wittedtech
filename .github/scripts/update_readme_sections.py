@@ -1,20 +1,11 @@
 #!/usr/bin/env python3
 """Regenerate the data-driven sections of README.md.
 
-Two sections, each delimited by its own marker pair:
+BLOG-POST-LIST  Dev.to posts as cards, ranked by reactions + comments.
+RECENT-REPOS    Most recently pushed non-fork repos, by `pushed_at`
+                (the Events API returns no PushEvents for this account).
 
-  BLOG-POST-LIST   Dev.to posts as image cards, ranked by engagement.
-                   The RSS-based blog-post-workflow action can only order
-                   chronologically; the Dev.to API exposes reaction and comment
-                   counts, so we rank on those and bucket into three tiers.
-
-  RECENT-REPOS     Most recently pushed non-fork repositories.
-                   Deliberately NOT the Events API: that only covers ~90 days
-                   and currently returns nothing but WatchEvents for this user,
-                   so a "recent commits" widget would render empty. `pushed_at`
-                   is always populated.
-
-Network failures leave the README untouched rather than failing the workflow.
+Fetch failures leave the README untouched rather than breaking the workflow.
 """
 
 from __future__ import annotations
@@ -66,9 +57,9 @@ def replace(text: str, marker: str, body: str) -> str:
 # --------------------------------------------------------------------- blog
 
 def thumb(article: dict) -> str | None:
-    """Dev.to serves images through a resizing CDN; ask for a card-sized one.
+    """Card-sized image via Dev.to's resizing CDN.
 
-    cover_image is null on ~1/3 of posts, so fall back to social_image.
+    cover_image is null on ~1/3 of posts; social_image is always present.
     """
     url = article.get("cover_image") or article.get("social_image")
     if not url:
@@ -83,14 +74,9 @@ def esc(s: str) -> str:
 def card(a: dict) -> str:
     """One card per post.
 
-    No <sub> anywhere: vertical-align:sub pushes text past the cell box, and
-    GitHub styles tables display:block;overflow:auto, so those few pixels turn
-    into a visible scrollbar.
-
-    Stats sit directly under the image, ABOVE the title. Titles wrap to one,
-    two or three lines depending on length, so a stats line placed after them
-    drifted by up to 38px across a row. Above the title it always lands at the
-    same height, because every thumbnail renders at the same size.
+    Stats go above the title so they line up across a row (titles wrap to
+    varying heights). Avoid <sub> in table cells — it overflows the cell and
+    GitHub's display:block/overflow:auto turns that into a scrollbar.
     """
     title, url = esc(a["title"]), a["url"]
     stats = [f"{a.get('public_reactions_count', 0)} 💜"]
@@ -138,10 +124,6 @@ def build_blog(articles: list[dict]) -> str:
             "",
         ]
 
-    out.append(
-        f"<sub>Ranked by reactions and comments across {len(ranked)} posts · "
-        f"rebuilt daily by GitHub Actions</sub>"
-    )
     return "\n".join(out).rstrip()
 
 

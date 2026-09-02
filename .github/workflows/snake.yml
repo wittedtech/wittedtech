@@ -1,10 +1,6 @@
 name: Generate Snake Contribution Graph
 
-# Previously broken three ways:
-#   1. `with:` was at column 0, so the YAML never parsed.
-#   2. github_user_name was `thepiyushmalhotra` (copied from a tutorial).
-#   3. cron "* */12 * * *" fires every minute of hours 0 and 12 (~120 runs/day),
-#      not every 12 hours.
+# Writes both snake SVGs to the `output` branch.
 on:
   schedule:
     - cron: "0 */12 * * *"   # actually every 12 hours

@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Banner: single self-contained dark artwork, reads correctly in both GitHub themes -->
   <img src="https://raw.githubusercontent.com/wittedtech/wittedtech/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Harshit Singh — Software Engineer (Backend)" width="100%" />
 
   <h1>Harshit Singh</h1>
@@ -153,16 +152,8 @@
 
 ## 📊 GitHub Stats
 
-<!--
-  These cards are LIVE API calls, re-rendered on every page load — they track new
-  commits, stars and languages on their own with no workflow and no committed images.
-
-  HOSTS: the public instances of github-readme-stats.vercel.app (DEPLOYMENT_PAUSED)
-  and github-profile-trophy.vercel.app (DEPLOYMENT_DISABLED / 402) are both offline,
-  which is why these cards used to render broken. The URLs point at working community
-  deployments of the same projects. Durable fix: deploy your own instance to Vercel
-  and swap the hostnames. https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
--->
+<!-- Official github-readme-stats / github-profile-trophy instances are down
+     (503 / 402). These are community mirrors — swap hosts if self-hosting. -->
 
 <div align="center">
   <picture>
@@ -182,10 +173,8 @@
   </picture>
 </div>
 
-<!--
-  CONTRIBUTION SNAKE — uncomment after the "Generate Snake Contribution Graph"
-  workflow has run once (Actions tab -> Run workflow). It writes both SVGs to the
-  `output` branch; the file there now is a 1.4 KB stub from the old broken workflow.
+<!-- Uncomment once the snake workflow has run (Actions > Run workflow).
+     The file on `output` is still an empty stub.
 
 <div align="center">
   <picture>
@@ -199,18 +188,8 @@
 
 ## 🏆 Trophies
 
-<!--
-  rank= is an INCLUDE list, and it is the whole trick here.
-
-  Unfiltered, this card also renders Followers (C), Issues (C) and three "Unknown"
-  placeholders — a wall of things not yet achieved. The obvious fix, rank=-C,-?,
-  is NOT supported by this deployment: it returns a zero-height empty SVG, i.e. an
-  invisible broken widget. Including ranks explicitly works.
-
-  Filtering by RANK rather than by title is deliberate: as a trophy climbs to B or
-  above it appears here automatically. A title= whitelist would freeze the list and
-  silently miss every future achievement.
--->
+<!-- rank= is an include list. Don't use rank=-C,-? — it returns an empty
+     0-height SVG. Filtering by rank, not title, so new trophies show up. -->
 
 <div align="center">
   <picture>
@@ -219,21 +198,12 @@
   </picture>
 </div>
 
-<div align="center"><sub>Showing rank B and above. New trophies appear here on their own as they're earned.</sub></div>
-
 ---
 
 ## 📈 GitHub, Visualised
 
-<!--
-  Every widget below is a LIVE API call re-rendered on each page load — no committed
-  images, nothing to refresh by hand.
-
-  THEMES: a README cannot offer a theme picker (no JS, and GitHub strips <style>).
-  The only switch available is the reader's own light/dark GitHub setting, exposed via
-  prefers-color-scheme. Each <picture> below therefore ships a matched pair —
-  github_dark / tokyonight for dark readers, github / default for light ones.
--->
+<!-- Light/dark is the only theme hook GitHub gives (no JS, <style> stripped),
+     so each <picture> ships a matched pair. -->
 
 <div align="center">
 
@@ -241,8 +211,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/A78BFA/wittedtech" />
     <img src="https://ghchart.rshah.org/4C1D95/wittedtech" alt="Harshit's contribution graph for the last year" width="98%" />
   </picture>
-
-  <br /><sub>A year of contributions. Green squares are optional; consistency isn't.</sub>
 
 </div>
 
@@ -263,36 +231,28 @@
   </picture>
 </div>
 
-<div align="center"><sub>Language split, commit split, and what time of day I'm actually dangerous — all IST.</sub></div>
-
 ---
 
 ## 🔨 What I've Been Touching Lately
 
-<!--
-  Sourced from each repo's `pushed_at`, NOT the Events API. The public Events API
-  only covers ~90 days and currently returns nothing but WatchEvents for this
-  account, so a "recent commits" feed would render empty. Rebuilt daily.
--->
+<!-- From pushed_at, not the Events API — that only covers ~90 days and
+     returns no PushEvents for this account. -->
 
 <!-- RECENT-REPOS:START -->
 | Repository | Language | What it is | Last push |
 |---|---|---|---|
+| **[wittedtech](https://github.com/wittedtech/wittedtech)** ⭐2 | `—` | Config files for my GitHub profile. | today |
 | **[System-Design-Content-Collection](https://github.com/wittedtech/System-Design-Content-Collection)** | `—` | This repo is complete collection of Content generated from… | 15 days ago |
 | **[wittedTech_Job_Hunter](https://github.com/wittedtech/wittedTech_Job_Hunter)** | `—` | — | 15 days ago |
 | **[neetcode-submissions](https://github.com/wittedtech/neetcode-submissions)** | `Java` | My NeetCode.io problem submissions | 1 mo ago |
-| **[wittedtech](https://github.com/wittedtech/wittedtech)** ⭐2 | `—` | Config files for my GitHub profile. | 3 mo ago |
 | **[cold-mailing-made-easy](https://github.com/wittedtech/cold-mailing-made-easy)** | `Java` | Simple Cold email Web Application Using Java and Java Mail… | 1 year ago |
 | **[WitPromptix](https://github.com/wittedtech/WitPromptix)** | `TypeScript` | — | 1 year ago |
 <!-- RECENT-REPOS:END -->
 
-<div align="center"><sub>Auto-refreshed daily from the GitHub API.</sub></div>
 
 ---
 
 ## 📰 From the Blog
-
-<div align="center"><sub>Ranked by how they actually landed, not by publish date. Rebuilt daily from the Dev.to API.</sub></div>
 
 <!-- BLOG-POST-LIST:START -->
 #### 🔥 Top Read
@@ -363,8 +323,6 @@
     </td>
   </tr>
 </table>
-
-<sub>Ranked by reactions and comments across 65 posts · rebuilt daily by GitHub Actions</sub>
 <!-- BLOG-POST-LIST:END -->
 
 📚 [All 65+ posts on Dev.to →](https://dev.to/wittedtech-by-harshit)
@@ -389,9 +347,7 @@
 
 <div align="center">
 
-  <!-- Rotating footer: readme-typing-svg cycles these client-side, so the line is
-       different every time someone lands here. No workflow, no commit churn.
-       Add or edit lines directly in the `lines=` param, separated by %3B (";"). -->
+  <!-- Lines rotate client-side. Add more in the lines= param, split on %3B. -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&vCenter=true&duration=4200&pause=700&width=760&size=17&color=A78BFA&lines=It%20works%20on%20my%20machine%2C%20so%20I%20shipped%20the%20machine.%20Docker.%3B99%20little%20bugs%20in%20the%20code.%20Patch%20one.%20127%20little%20bugs%20in%20the%20code.%3BNullPointerException%3A%20Java%27s%20way%20of%20saying%20you%20assumed.%3BMicroservices%2C%20because%20one%20single%20point%20of%20failure%20felt%20too%20easy.%3BI%20never%20test%20in%20production.%20My%20uptime%20graph%20is%20a%20liar.%3Bgit%20commit%20-m%20%27fix%27%20%2C%20the%20two%20most%20honest%20words%20in%20engineering.%3BLatency%20is%20just%20physics%20sending%20an%20invoice.%3BEvery%20payment%20I%20route%20is%20somebody%27s%20rent.%20No%20pressure.%3BClean%20code%20is%20a%20love%20letter%20to%20whoever%20debugs%20it%20at%203%20AM.%20Me." alt="Rotating developer humour" />
 
   <br /><br />
