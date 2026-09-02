@@ -1,0 +1,38 @@
+name: Generate Snake Contribution Graph
+
+# Previously broken three ways:
+#   1. `with:` was at column 0, so the YAML never parsed.
+#   2. github_user_name was `thepiyushmalhotra` (copied from a tutorial).
+#   3. cron "* */12 * * *" fires every minute of hours 0 and 12 (~120 runs/day),
+#      not every 12 hours.
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # actually every 12 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
