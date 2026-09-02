@@ -3,10 +3,8 @@ name: Generate Snake Contribution Graph
 # Writes both snake SVGs to the `output` branch.
 on:
   schedule:
-    - cron: "0 */12 * * *"   # actually every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
