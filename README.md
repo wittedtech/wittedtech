@@ -173,16 +173,12 @@
   </picture>
 </div>
 
-<!-- Uncomment once the snake workflow has run (Actions > Run workflow).
-     The file on `output` is still an empty stub.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wittedtech/wittedtech/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/wittedtech/wittedtech/output/github-snake.svg" alt="Contribution snake animation" />
+    <img src="https://raw.githubusercontent.com/wittedtech/wittedtech/output/github-snake.svg" alt="Contribution snake animation" width="98%" />
   </picture>
 </div>
--->
 
 ---
 
