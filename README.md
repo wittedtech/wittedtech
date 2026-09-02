@@ -3,197 +3,167 @@
   <!-- Banner: single self-contained dark artwork, reads correctly in both GitHub themes -->
   <img src="https://raw.githubusercontent.com/wittedtech/wittedtech/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Harshit Singh — Software Engineer (Backend)" width="100%" />
 
-  <h1>👋 Hello, I'm Harshit Singh</h1>
-  <h3>Software Engineer (Backend) · Java &amp; Spring Boot · Technical Blogger</h3>
-  <p><i>I build systems that move money — and try not to break production at 2 AM.</i></p>
+  <h1>Harshit Singh</h1>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Spring+Cloud+%7C+Microservices;Payments+%7C+UPI+%7C+NPCI+%7C+High-Reliability+Systems;DSA+%7C+System+Design+%7C+Clean+Architecture" alt="Java, Spring Boot, Spring Cloud, Microservices — Payments, UPI, NPCI, high-reliability systems — DSA, System Design, Clean Architecture" />
+    <b>Software Engineer (Backend)</b> &nbsp;·&nbsp; Java &amp; Spring Boot &nbsp;·&nbsp; Payments Infrastructure &nbsp;·&nbsp; Noida, IN
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&vCenter=true&duration=3000&pause=800&width=720&size=22&color=36BCF7&lines=I%20build%20the%20rails%20that%20move%20money.%3Buser%20%20-%3E%20%20UPI%20Switch%20%20-%3E%20%20NPCI%20%20-%3E%20%20bank%20CBS%3BJava%20.%20Spring%20Boot%20.%20Spring%20Cloud%20.%20Microservices" alt="I build the rails that move money — user to UPI Switch to NPCI to bank CBS — Java, Spring Boot, Spring Cloud, Microservices" />
+
+  <p>
+    <a href="https://harshit-singh-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://dev.to/wittedtech-by-harshit"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+    <a href="https://www.linkedin.com/in/harshitsingh-wittedtech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://topmate.io/harshitsingh_0"><img src="https://img.shields.io/badge/Book_a_1:1-FF3C5F?style=for-the-badge" alt="Book a 1:1 on Topmate" /></a>
+    <a href="mailto:sdeharshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=wittedtech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/wittedtech?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/wittedtech?label=Stars&style=social" alt="GitHub Stars" />
-  </p>
-
-  <p>
-    <a href="https://harshit-singh-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:sdeharshit@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/harshitsingh-wittedtech/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square" alt="LinkedIn" /></a>
-    <a href="https://topmate.io/harshitsingh_0"><img src="https://img.shields.io/badge/-Mentorship-FF3C5F?style=flat-square" alt="Mentorship on Topmate" /></a>
-    <a href="https://x.com/harshitsinghHS"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X" /></a>
-    <a href="https://github.com/sponsors/wittedtech"><img src="https://img.shields.io/badge/-Sponsor_Me-FF4500?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+    <img src="https://komarev.com/ghpvc/?username=wittedtech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/wittedtech?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/wittedtech?label=Stars&style=flat-square&color=0e75b6" alt="GitHub Stars" />
   </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 The Short Version
 
-- 💼 **Backend engineer, 4+ years** — building high-reliability financial systems and payment infrastructure with Java and Spring Boot.
-- 🔭 **Currently Working On**: a **UPI Switch** at a fintech company — the middleware layer that routes transactions between users, NPCI, and bank core systems (CBS).
-- 🌱 **Learning**: Spring Security, JWT/OAuth2, distributed systems, and advanced System Design.
-- ✍️ **Blogging**: Java, Spring Boot and System Design deep-dives on [Dev.to](https://dev.to/wittedtech-by-harshit).
-- 🎓 **Mentoring**: 1:1 sessions on [Topmate](https://topmate.io/harshitsingh_0) — Java, Spring Boot, backend interviews.
-- 💬 **Ask Me About**: Java, Spring Boot, Spring Cloud, Hibernate, DSA, System Design, or Clean Architecture.
-- 📫 **Contact**: **sdeharshit@gmail.com**
-- ⚡ **Fun Fact**: I believe clean code is an art form, and coffee is my creative fuel! ☕
-
----
-
-## 🔗 Quick Links
-
-- 🖥️ [Portfolio](https://harshit-singh-portfolio-gamma.vercel.app/) – The full professional profile.
-- 📝 [Dev.to Blog](https://dev.to/wittedtech-by-harshit) – Technical deep-dives on Java &amp; Spring.
-- 💻 [GitHub](https://github.com/wittedtech) – Projects and learning repositories.
-- 🧠 [Stack Overflow](https://stackoverflow.com/users/33074074/harshit-singh) – Answers and reputation.
-- 🎓 [Topmate](https://topmate.io/harshitsingh_0) – Book a 1:1 mentorship session.
+|  |  |
+|---|---|
+| 🏦 **What I do now** | Build a **UPI Switch** — the middleware that routes live transactions between users, NPCI, and bank core systems. If it's slow, people notice. If it's wrong, people call. |
+| 🧰 **What I reach for** | Java, Spring Boot, Spring Cloud. Postgres when it matters, Redis when it's hot, Kafka when it can wait. |
+| 🧪 **What I'm learning** | Distributed systems failure modes, OAuth2/JWT depth, and system design beyond the whiteboard. |
+| ✍️ **Where I write** | [Dev.to](https://dev.to/wittedtech-by-harshit) — 65+ posts on Java, Spring and system design. |
+| 🎓 **How to reach me** | [1:1 mentorship on Topmate](https://topmate.io/harshitsingh_0), or just **sdeharshit@gmail.com**. |
+| ☕ **Fun fact** | I think clean code is an art form. My coffee budget is a rounding error on that opinion. |
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<!--
-  NOTE ON BADGE LOGOS:
-  simple-icons (the icon set shields.io uses) has dropped several corporate marks
-  for trademark reasons — aws, oracle, linkedin, vscode and java among them.
-  shields.io ignores an unknown `logo=` silently, so those badges render without an
-  icon and give no error. Dead params are omitted below; Java uses `openjdk`,
-  which does resolve.
--->
+> Grouped by *when I actually reach for them*, not by what looks good on a CV.
 
-### Core Backend
-<p>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/-Hibernate/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate / JPA" />
-  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ The Daily Drivers</h3>
+      <p>What I open the IDE for. Java and Spring pay the bills, Postgres keeps the truth.</p>
+      <a href="https://github.com/wittedtech?tab=repositories&language=java"><img src="https://skillicons.dev/icons?i=java,spring,maven,postgres&theme=dark" alt="Java, Spring, Maven, PostgreSQL" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 When One Server Isn't Enough</h3>
+      <p>Service discovery, async messaging, caching and search — the distributed-systems toolbox.</p>
+      <img src="https://skillicons.dev/icons?i=kafka,redis,mongodb,elasticsearch&theme=dark" alt="Kafka, Redis, MongoDB, Elasticsearch" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 Ship It &amp; Watch It</h3>
+      <p>Containers, orchestration, cloud and CI — because "works on my machine" is not a deployment strategy.</p>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions&theme=dark" alt="Docker, Kubernetes, AWS, GitHub Actions" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Where I Actually Live</h3>
+      <p>The four tabs that are always open, in some order, on some monitor.</p>
+      <img src="https://skillicons.dev/icons?i=idea,git,postman,linux&theme=dark" alt="IntelliJ IDEA, Git, Postman, Linux" />
+    </td>
+  </tr>
+</table>
 
-### Distributed Systems
-<p>
-  <img src="https://img.shields.io/badge/-Microservices-FF6C37?style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/-Eureka_Discovery-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Eureka Service Discovery" />
-  <img src="https://img.shields.io/badge/-API_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud Gateway" />
-  <img src="https://img.shields.io/badge/-OAuth2_/_JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="OAuth2 / JWT" />
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-</p>
-
-### Data
-<p>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-</p>
-
-### DevOps &amp; Cloud
-<p>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-### Frontend &amp; Tools
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+<sub>Also fluent enough in <b>JavaScript / React / Next.js</b> to build my own front ends and not complain about the API design — I wrote both sides.</sub>
 
 ---
 
 ## 🌟 Featured Projects
 
-> Backend-heavy work first — these are the repos that best show how I design and build Java systems.
+> Backend-heavy work first — the repos that best show how I design and build Java systems.
 
-### 🏛️ [Decentralised Peer-2-Peer Learning](https://github.com/wittedtech/Decentralised-Peer2Peer-Learning) — *flagship*
+### 🏛️ [Decentralised Peer-2-Peer Learning](https://github.com/wittedtech/Decentralised-Peer2Peer-Learning) &nbsp;·&nbsp; *flagship*
 
-A **13-service Spring Cloud microservices platform** for peer-to-peer learning: course management, payments, mentorship booking, gamification, reputation, notifications and blockchain-backed certification — behind a single API gateway.
+**What it is, as a product.** An online learning marketplace with no company sitting in the middle taking a cut. Learners browse courses and book 1:1 mentorship slots; mentors set their own availability and get paid directly through the platform. Every completed course issues a certificate recorded on-chain, so it stays verifiable even if the platform itself disappears — your credential isn't hostage to someone else's uptime. Reputation is earned from verified feedback rather than self-reported claims, and points, streaks and leaderboards keep learners returning after week one, which is where most learning platforms quietly lose everybody.
+
+**Why it's built this way.** Thirteen independently deployable Spring Boot services behind a single gateway, so payments can fail without taking course browsing down with it, and any one service can be scaled or redeployed on its own.
 
 <p>
-  <img src="https://img.shields.io/badge/-Spring_Cloud_2023.0.3-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud 2023.0.3" />
-  <img src="https://img.shields.io/badge/-Eureka-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Eureka" />
-  <img src="https://img.shields.io/badge/-Config_Server-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Config Server" />
-  <img src="https://img.shields.io/badge/-OAuth2-000000?style=flat-square" alt="OAuth2" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis,elasticsearch&theme=dark" alt="Java, Spring, PostgreSQL, MongoDB, Redis, Elasticsearch" />
 </p>
 
-**Why it's worth a look:** service discovery, centralised configuration, gateway routing and polyglot persistence wired together across 13 independently deployable Spring Boot services.
+<p>
+  <img src="https://img.shields.io/badge/Spring_Cloud-2023.0.3-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud 2023.0.3" />
+  <img src="https://img.shields.io/badge/Eureka-service_discovery-6DB33F?style=flat-square" alt="Eureka service discovery" />
+  <img src="https://img.shields.io/badge/Config_Server-centralised_config-6DB33F?style=flat-square" alt="Spring Cloud Config Server" />
+  <img src="https://img.shields.io/badge/Cloud_Gateway-single_entry_point-6DB33F?style=flat-square" alt="Spring Cloud Gateway" />
+  <img src="https://img.shields.io/badge/OAuth2-auth-000000?style=flat-square" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/13-services-FF6C37?style=flat-square" alt="13 services" />
+</p>
 
 <details>
-<summary><b>📂 See all 13 services</b></summary>
+<summary><b>📂 See all 13 services and what each one owns</b></summary>
 
-| Service | Responsibility | Notable stack |
+<br />
+
+| Service | What it owns | Notable stack |
 |---|---|---|
-| `discovery-server` | Eureka service registry | Netflix Eureka Server |
-| `configuration-service` | Centralised config for every service | Spring Cloud Config Server |
-| `api-gateway-service` | Single entry point, routing, auth | Cloud Gateway, WebFlux, OAuth2 |
-| `authentication-authorization-service` | Identity, tokens, access control | Spring Security, OAuth2 Resource Server, PostgreSQL |
-| `user-management-service` | User profiles and accounts | Spring Boot, JPA |
-| `course-management-service` | Course catalogue and content | Spring Data MongoDB |
-| `payment-service` | Payment flows | Spring Security, Eureka Client |
-| `mentorship-booking-service` | Session scheduling | Spring Boot, Eureka Client |
-| `gamification-service` | Points, streaks, leaderboards | Spring Data Redis, PostgreSQL |
-| `reputation-and-feedback-service` | Ratings and reviews | Spring Boot, Eureka Client |
-| `notification-service` | Async user notifications | Spring Boot, Eureka Client |
-| `blockchain-certification-service` | Tamper-evident certificates | Spring Boot, Eureka Client |
-| `logging-and-monitoring-service` | Centralised logs and health | Actuator, Spring Data Elasticsearch |
+| `discovery-server` | The service registry every other service registers with | Netflix Eureka Server |
+| `configuration-service` | One source of truth for config, so 13 services don't drift | Spring Cloud Config Server |
+| `api-gateway-service` | The only door in — routing, auth, rate limiting | Cloud Gateway, WebFlux, OAuth2 |
+| `authentication-authorization-service` | Identity, tokens, who-can-do-what | Spring Security, OAuth2 Resource Server, PostgreSQL |
+| `user-management-service` | Profiles and accounts | Spring Boot, JPA |
+| `course-management-service` | The course catalogue and its content | Spring Data MongoDB |
+| `payment-service` | Moving money between learner and mentor | Spring Security, Eureka Client |
+| `mentorship-booking-service` | Availability and 1:1 session scheduling | Spring Boot, Eureka Client |
+| `gamification-service` | Points, streaks, leaderboards — the retention loop | Spring Data Redis, PostgreSQL |
+| `reputation-and-feedback-service` | Ratings that mentors actually earn | Spring Boot, Eureka Client |
+| `notification-service` | Async fan-out so nothing blocks on email | Spring Boot, Eureka Client |
+| `blockchain-certification-service` | Certificates that survive the platform | Spring Boot, Eureka Client |
+| `logging-and-monitoring-service` | Centralised logs and health, so failures are findable | Actuator, Spring Data Elasticsearch |
 
 </details>
 
 ---
 
-### Other backend projects
+### Other backend work
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[DocSyncAnalyzer](https://github.com/wittedtech/DocSyncAnalyzer)** | Batch PDF processing and OCR text extraction built to chew through thousands of pages | Spring Boot, Apache PDFBox, Tesseract OCR, Maven |
+| **[DocSyncAnalyzer](https://github.com/wittedtech/DocSyncAnalyzer)** | Batch PDF processing and OCR extraction, built to chew through thousands of pages without falling over | Spring Boot, Apache PDFBox, Tesseract OCR, Maven |
 | **[elastic-insight](https://github.com/wittedtech/elastic-insight)** | Real-time log monitoring, custom log parsing and alerting over the Elastic Stack | Spring Boot, Elasticsearch, Logstash, Kibana, Actuator |
-| **[cold-mailing-made-easy](https://github.com/wittedtech/cold-mailing-made-easy)** | Web app for sending bulk cold emails, to make applying for jobs less painful | Spring Boot, Jakarta Mail, Docker Compose |
+| **[cold-mailing-made-easy](https://github.com/wittedtech/cold-mailing-made-easy)** | Bulk cold-email web app, because applying to 200 jobs by hand is its own kind of cruelty | Spring Boot, Jakarta Mail, Docker Compose |
 | **[GroupChat App in Spring Boot](https://github.com/wittedtech/GroupChat-App-In-Spring-Boot)** | Real-time group chat over WebSockets | Spring Boot, WebSocket, JavaScript |
-| **[chatbot-using-stanford-nlp](https://github.com/wittedtech/chatbot-using-stanford-nlp)** | Rule- and NLP-driven chatbot built on Stanford CoreNLP | Java, Stanford CoreNLP |
+| **[chatbot-using-stanford-nlp](https://github.com/wittedtech/chatbot-using-stanford-nlp)** | Rule- and NLP-driven chatbot on Stanford CoreNLP | Java, Stanford CoreNLP |
 
-### 📚 Learning &amp; interview prep
+### 📚 Learning in public
 
 | Repository | What's inside |
 |---|---|
-| **[Interview-Prep-Guide](https://github.com/wittedtech/Interview-Prep-Guide)** ⭐ | Experience-wise Java, Spring and system-design interview questions with in-depth topic notes — my most-starred repo |
-| **[Data-Structure-and-Algorithm-Learning](https://github.com/wittedtech/Data-Structure-and-Algorithm-Learning)** | The largest Java codebase on this profile — DSA implementations built up from scratch |
-| **[LeetCode-Solutions](https://github.com/wittedtech/LeetCode-Solutions)** | LeetCode solutions in Java, synced via LeetHub |
+| **[Interview-Prep-Guide](https://github.com/wittedtech/Interview-Prep-Guide)** ⭐ | Experience-wise Java, Spring and system-design questions with real depth — my most-starred repo |
+| **[Data-Structure-and-Algorithm-Learning](https://github.com/wittedtech/Data-Structure-and-Algorithm-Learning)** | The largest Java codebase here — DSA built up from scratch, not copied |
+| **[LeetCode-Solutions](https://github.com/wittedtech/LeetCode-Solutions)** | Solutions in Java, synced via LeetHub |
 | **[aws-learning](https://github.com/wittedtech/aws-learning)** | Step-by-step AWS notes, beginner to advanced |
-| **[Technical-Case-Studies](https://github.com/wittedtech/Technical-Case-Studies)** | Case studies on how large systems are actually built |
+| **[Technical-Case-Studies](https://github.com/wittedtech/Technical-Case-Studies)** | How large systems are actually built, pulled apart |
 
 ---
 
 ## 📊 GitHub Stats
 
 <!--
-  NOTE ON HOSTS:
-  The public instances of github-readme-stats.vercel.app (DEPLOYMENT_PAUSED) and
-  github-profile-trophy.vercel.app (DEPLOYMENT_DISABLED / 402) are both offline,
-  which is why these cards used to render as broken images.
-  The URLs below point at working community deployments of the same projects.
-  Durable fix: deploy your own instance to Vercel and swap the hostnames here.
-  See https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  These cards are LIVE API calls, re-rendered on every page load — they track new
+  commits, stars and languages on their own with no workflow and no committed images.
+
+  HOSTS: the public instances of github-readme-stats.vercel.app (DEPLOYMENT_PAUSED)
+  and github-profile-trophy.vercel.app (DEPLOYMENT_DISABLED / 402) are both offline,
+  which is why these cards used to render broken. The URLs point at working community
+  deployments of the same projects. Durable fix: deploy your own instance to Vercel
+  and swap the hostnames. https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 -->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wittedtech&show_icons=true&theme=github_light&hide_border=true" width="48%" alt="Harshit's GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wittedtech&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wittedtech&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true" width="48%" alt="Harshit's GitHub Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wittedtech&theme=radical&hide_border=true" />
@@ -203,16 +173,15 @@ A **13-service Spring Cloud microservices platform** for peer-to-peer learning: 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_light&hide_border=true&langs_count=10" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wittedtech&layout=compact&theme=github_light&hide_border=true&langs_count=8" alt="Top Languages" />
   </picture>
 </div>
 
 <!--
   CONTRIBUTION SNAKE — uncomment after the "Generate Snake Contribution Graph"
   workflow has run once (Actions tab -> Run workflow). It writes both SVGs to the
-  `output` branch; the existing file there is a 1.4 KB stub from the old broken
-  workflow, so this stays commented until a real run replaces it.
+  `output` branch; the file there now is a 1.4 KB stub from the old broken workflow.
 
 <div align="center">
   <picture>
@@ -224,30 +193,66 @@ A **13-service Spring Cloud microservices platform** for peer-to-peer learning: 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
+
+<!--
+  rank= is an INCLUDE list, and it is the whole trick here.
+
+  Unfiltered, this card also renders Followers (C), Issues (C) and three "Unknown"
+  placeholders — a wall of things not yet achieved. The obvious fix, rank=-C,-?,
+  is NOT supported by this deployment: it returns a zero-height empty SVG, i.e. an
+  invisible broken widget. Including ranks explicitly works.
+
+  Filtering by RANK rather than by title is deliberate: as a trophy climbs to B or
+  above it appears here automatically. A title= whitelist would freeze the list and
+  silently miss every future achievement.
+-->
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=wittedtech&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-    <img src="https://github-trophies.vercel.app/?username=wittedtech&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=wittedtech&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    <img src="https://github-trophies.vercel.app/?username=wittedtech&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies — rank B and above" />
   </picture>
 </div>
 
+<div align="center"><sub>Showing rank B and above. New trophies appear here on their own as they're earned.</sub></div>
+
 ---
 
-## 📰 Latest Blog Posts
+## 📰 From the Blog
+
+<div align="center"><sub>Ranked by how they actually landed, not by publish date. Rebuilt daily from the Dev.to API.</sub></div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Template Processing in Spring Boot: Under the Hood – A Deep Dive! 🚀](https://dev.to/wittedtech-by-harshit/template-processing-in-spring-boot-under-the-hood-a-deep-dive-4fl5)
-- [Evolution of Spring Explained Like a Blockbuster Movie Marathon](https://dev.to/wittedtech-by-harshit/evolution-of-spring-explained-like-a-blockbuster-movie-marathon-22lk)
-- [GraalVM: The Swiss Army Knife of the JVM World](https://dev.to/wittedtech-by-harshit/graalvm-the-swiss-army-knife-of-the-jvm-world-2h9a)
+#### 🔥 **Top Read** — the ones that actually took off
+<sub><i>What the internet decided it liked.</i></sub>
+
+- [System Design of YouTube: A Detailed Deep Dive into the Video Giant](https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019) · <sub>142 💜 · 12 💬 · 6 min</sub>
+- [The Best Microservices Design Patterns Explained Like You’re Ordering Pizza](https://dev.to/wittedtech-by-harshit/the-best-microservices-design-patterns-explained-like-youre-ordering-pizza-12pg) · <sub>38 💜 · 15 💬 · 6 min</sub>
+- [🚀 Mastering Time and Space Complexity in DSA: Your Ultimate Guide 🚀](https://dev.to/wittedtech-by-harshit/mastering-time-and-space-complexity-in-dsa-your-ultimate-guide-4fdl) · <sub>13 💜 · 2 💬 · 8 min</sub>
+
+#### 📈 **Medium Read** — steady performers
+<sub><i>Respectable numbers, no complaints.</i></sub>
+
+- [Ultimate Guide to the Best Resources, Books, and Problems for DSA Mastery: "Which I Personally Use."](https://dev.to/wittedtech-by-harshit/ultimate-guide-to-the-best-resources-books-and-problems-for-dsa-mastery-which-i-personally-use-gn3) · <sub>13 💜 · 9 min</sub>
+- [Load Balancers in Microservices: A Beginner's Guide with Code and Real-Life Examples](https://dev.to/wittedtech-by-harshit/load-balancers-in-microservices-a-beginners-guide-with-code-and-real-life-examples-5a6) · <sub>12 💜 · 3 💬 · 8 min</sub>
+- [A Deep Dive into Java Maps: The Ultimate Guide for All Developers](https://dev.to/wittedtech-by-harshit/a-deep-dive-into-java-maps-the-ultimate-guide-for-all-developers-oig) · <sub>9 💜 · 5 min</sub>
+
+#### 💎 **Least Read** — criminally underrated
+<sub><i>I stand by every one of these. The algorithm disagreed.</i></sub>
+
+- [Why Java is Still King in Backend in 2025 (Aur Tum Iske Baap Kaise Bano!)](https://dev.to/wittedtech-by-harshit/why-java-is-still-king-in-backend-in-2025-aur-tum-iske-baap-kaise-bano-4d3f) · <sub>0 💜 · 5 min</sub>
+- [Why You Should Master Design Patterns](https://dev.to/wittedtech-by-harshit/why-you-should-master-design-patterns-47l8) · <sub>0 💜 · 11 min</sub>
+- [Spring Security: Lock Down Your APIs](https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn) · <sub>0 💜 · 8 min</sub>
+
+<sub>Ranked by reactions and comments across 65 posts · refreshed daily by GitHub Actions</sub>
 <!-- BLOG-POST-LIST:END -->
 
-📚 [Read all posts on Dev.to →](https://dev.to/wittedtech-by-harshit)
+📚 [All 65+ posts on Dev.to →](https://dev.to/wittedtech-by-harshit)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Find Me Elsewhere
 
 <div align="center">
   <a href="https://harshit-singh-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -264,5 +269,14 @@ A **13-service Spring Cloud microservices platform** for peer-to-peer learning: 
 ---
 
 <div align="center">
-  <p><i>"Crafting clean code, designing scalable systems, and sharing knowledge — one line at a time."</i> ☕🚀</p>
+
+  <!-- Rotating footer: readme-typing-svg cycles these client-side, so the line is
+       different every time someone lands here. No workflow, no commit churn.
+       Add or edit lines directly in the `lines=` param, separated by %3B (";"). -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&vCenter=true&duration=4200&pause=700&width=760&size=17&color=A78BFA&lines=It%20works%20on%20my%20machine%2C%20so%20I%20shipped%20the%20machine.%20Docker.%3B99%20little%20bugs%20in%20the%20code.%20Patch%20one.%20127%20little%20bugs%20in%20the%20code.%3BNullPointerException%3A%20Java%27s%20way%20of%20saying%20you%20assumed.%3BMicroservices%2C%20because%20one%20single%20point%20of%20failure%20felt%20too%20easy.%3BI%20never%20test%20in%20production.%20My%20uptime%20graph%20is%20a%20liar.%3Bgit%20commit%20-m%20%27fix%27%20%2C%20the%20two%20most%20honest%20words%20in%20engineering.%3BLatency%20is%20just%20physics%20sending%20an%20invoice.%3BEvery%20payment%20I%20route%20is%20somebody%27s%20rent.%20No%20pressure.%3BClean%20code%20is%20a%20love%20letter%20to%20whoever%20debugs%20it%20at%203%20AM.%20Me." alt="Rotating developer humour" />
+
+  <br /><br />
+
+  <sub><b>wittedTECH</b> — building things that move money, and writing about why they break.</sub>
+
 </div>

@@ -1,6 +1,9 @@
 name: Update Dev.to Blog Posts
 
-# Was previously broken: the job never ran because `with:` sat at column 0.
+# Replaces gautamkrishnar/blog-post-workflow. That action reads the RSS feed,
+# which is chronological only — it cannot rank by engagement. The Dev.to API
+# exposes reaction and comment counts, so .github/scripts/update_blog_section.py
+# sorts on those and writes three tiers between the BLOG-POST-LIST markers.
 on:
   schedule:
     - cron: "0 2 * * *"   # daily at 02:00 UTC
@@ -11,17 +14,28 @@ permissions:
 
 jobs:
   update-readme:
-    name: Pull latest Dev.to posts into README
+    name: Rank Dev.to posts by engagement
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Sync blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          feed_list: "https://dev.to/feed/wittedtech-by-harshit"
-          max_post_count: 5
-          readme_path: ./README.md
-          template: "- [$title]($url)\n"
-          commit_message: "chore: sync latest Dev.to posts"
+          python-version: "3.12"
+
+      - name: Rebuild blog section
+        run: python .github/scripts/update_blog_section.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "No change to README.md"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh Dev.to posts ranked by engagement"
+          git push
