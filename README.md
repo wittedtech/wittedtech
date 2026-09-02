@@ -48,52 +48,32 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ The Daily Drivers</h3>
-      <p>What I open the IDE for. Java and Spring pay the bills, Postgres keeps the truth.</p>
-      <p>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark" /><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=dark" /><img src="https://skillicons.dev/icons?i=spring&theme=light" alt="Spring Boot" title="Spring Boot" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=maven&theme=dark" /><img src="https://skillicons.dev/icons?i=maven&theme=light" alt="Apache Maven" title="Apache Maven" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" title="PostgreSQL" width="46" height="46" /></picture>
-      </p>
-      <sub><b>Java · Spring Boot · Apache Maven · PostgreSQL</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 When One Server Isn't Enough</h3>
-      <p>Service discovery, async messaging, caching and search — the distributed-systems toolbox.</p>
-      <p>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka&theme=dark" /><img src="https://skillicons.dev/icons?i=kafka&theme=light" alt="Apache Kafka" title="Apache Kafka" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis" title="Redis" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark" /><img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" title="MongoDB" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=elasticsearch&theme=dark" /><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" alt="Elasticsearch" title="Elasticsearch" width="46" height="46" /></picture>
-      </p>
-      <sub><b>Apache Kafka · Redis · MongoDB · Elasticsearch</b></sub>
-    </td>
+    <td colspan="4" width="50%" valign="top"><h3>⚔️ The Daily Drivers</h3><p>What I open the IDE for. Java and Spring pay the bills, Postgres keeps the truth.</p></td>
+    <td colspan="4" width="50%" valign="top"><h3>🌐 When One Server Isn't Enough</h3><p>Service discovery, async messaging, caching and search — the distributed-systems toolbox.</p></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📦 Ship It &amp; Watch It</h3>
-      <p>Containers, orchestration, cloud and CI — “works on my machine” is not a deployment strategy.</p>
-      <p>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" title="Docker" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes&theme=dark" /><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" alt="Kubernetes" title="Kubernetes" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark" /><img src="https://skillicons.dev/icons?i=aws&theme=light" alt="Amazon Web Services" title="Amazon Web Services" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&theme=dark" /><img src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="GitHub Actions" title="GitHub Actions" width="46" height="46" /></picture>
-      </p>
-      <sub><b>Docker · Kubernetes · Amazon Web Services · GitHub Actions</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Where I Actually Live</h3>
-      <p>The four tabs always open, in some order, on some monitor.</p>
-      <p>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=idea&theme=dark" /><img src="https://skillicons.dev/icons?i=idea&theme=light" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" /><img src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman" title="Postman" width="46" height="46" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark" /><img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" title="Linux" width="46" height="46" /></picture>
-      </p>
-      <sub><b>IntelliJ IDEA · Git · Postman · Linux</b></sub>
-    </td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark" /><img src="https://skillicons.dev/icons?i=java&theme=light" width="46" height="46" title="Java" alt="Java" /></picture><br /><b>Java</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=dark" /><img src="https://skillicons.dev/icons?i=spring&theme=light" width="46" height="46" title="Spring Boot" alt="Spring Boot" /></picture><br /><b>Spring</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=maven&theme=dark" /><img src="https://skillicons.dev/icons?i=maven&theme=light" width="46" height="46" title="Apache Maven" alt="Apache Maven" /></picture><br /><b>Maven</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="46" height="46" title="PostgreSQL" alt="PostgreSQL" /></picture><br /><b>Postgres</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka&theme=dark" /><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="46" height="46" title="Apache Kafka" alt="Apache Kafka" /></picture><br /><b>Kafka</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><img src="https://skillicons.dev/icons?i=redis&theme=light" width="46" height="46" title="Redis" alt="Redis" /></picture><br /><b>Redis</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark" /><img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="46" height="46" title="MongoDB" alt="MongoDB" /></picture><br /><b>MongoDB</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=elasticsearch&theme=dark" /><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" width="46" height="46" title="Elasticsearch" alt="Elasticsearch" /></picture><br /><b>Elastic</b></td>
+  </tr>
+  <tr>
+    <td colspan="4" width="50%" valign="top"><h3>📦 Ship It &amp; Watch It</h3><p>Containers, orchestration, cloud and CI — “works on my machine” is not a deployment strategy.</p></td>
+    <td colspan="4" width="50%" valign="top"><h3>🛠️ Where I Actually Live</h3><p>The four tabs always open, in some order, on some monitor.</p></td>
+  </tr>
+  <tr>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><img src="https://skillicons.dev/icons?i=docker&theme=light" width="46" height="46" title="Docker" alt="Docker" /></picture><br /><b>Docker</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes&theme=dark" /><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="46" height="46" title="Kubernetes" alt="Kubernetes" /></picture><br /><b>K8s</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark" /><img src="https://skillicons.dev/icons?i=aws&theme=light" width="46" height="46" title="Amazon Web Services" alt="Amazon Web Services" /></picture><br /><b>AWS</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&theme=dark" /><img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="46" height="46" title="GitHub Actions" alt="GitHub Actions" /></picture><br /><b>Actions</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=idea&theme=dark" /><img src="https://skillicons.dev/icons?i=idea&theme=light" width="46" height="46" title="IntelliJ IDEA" alt="IntelliJ IDEA" /></picture><br /><b>IntelliJ</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><img src="https://skillicons.dev/icons?i=git&theme=light" width="46" height="46" title="Git" alt="Git" /></picture><br /><b>Git</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark" /><img src="https://skillicons.dev/icons?i=postman&theme=light" width="46" height="46" title="Postman" alt="Postman" /></picture><br /><b>Postman</b></td>
+    <td align="center" width="12.5%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark" /><img src="https://skillicons.dev/icons?i=linux&theme=light" width="46" height="46" title="Linux" alt="Linux" /></picture><br /><b>Linux</b></td>
   </tr>
 </table>
 
@@ -320,20 +300,20 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfriq6xh3nni41gu48he.png" alt="System Design of YouTube: A Detailed Deep Dive into the Video Giant" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019">System Design of YouTube: A Detailed Deep Dive into the Video Giant</a></b><br />
-      <sub>142 💜 · 12 💬 · 6 min</sub>
+      <b>142 💜 · 12 💬 · 6 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019"><b>System Design of YouTube: A Detailed Deep Dive into the Video Giant</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/the-best-microservices-design-patterns-explained-like-youre-ordering-pizza-12pg"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8s2fyfyhqn1z9aaymcgr.png" alt="The Best Microservices Design Patterns Explained Like You’re Ordering Pizza" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/the-best-microservices-design-patterns-explained-like-youre-ordering-pizza-12pg">The Best Microservices Design Patterns Explained Like You’re Ordering Pizza</a></b><br />
-      <sub>38 💜 · 15 💬 · 6 min</sub>
+      <b>38 💜 · 15 💬 · 6 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/the-best-microservices-design-patterns-explained-like-youre-ordering-pizza-12pg"><b>The Best Microservices Design Patterns Explained Like You’re Ordering Pizza</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/mastering-time-and-space-complexity-in-dsa-your-ultimate-guide-4fdl"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8cns4gl7wqrg6uqnmpjz.png" alt="🚀 Mastering Time and Space Complexity in DSA: Your Ultimate Guide 🚀" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/mastering-time-and-space-complexity-in-dsa-your-ultimate-guide-4fdl">🚀 Mastering Time and Space Complexity in DSA: Your Ultimate Guide 🚀</a></b><br />
-      <sub>13 💜 · 2 💬 · 8 min</sub>
+      <b>13 💜 · 2 💬 · 8 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/mastering-time-and-space-complexity-in-dsa-your-ultimate-guide-4fdl"><b>🚀 Mastering Time and Space Complexity in DSA: Your Ultimate Guide 🚀</b></a>
     </td>
   </tr>
 </table>
@@ -343,20 +323,20 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/ultimate-guide-to-the-best-resources-books-and-problems-for-dsa-mastery-which-i-personally-use-gn3"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85zi2m89f0apvob6zal3.jpg" alt="Ultimate Guide to the Best Resources, Books, and Problems for DSA Mastery: &quot;Which I Personally Use.&quot;" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/ultimate-guide-to-the-best-resources-books-and-problems-for-dsa-mastery-which-i-personally-use-gn3">Ultimate Guide to the Best Resources, Books, and Problems for DSA Mastery: &quot;Which I Personally Use.&quot;</a></b><br />
-      <sub>13 💜 · 9 min</sub>
+      <b>13 💜 · 9 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/ultimate-guide-to-the-best-resources-books-and-problems-for-dsa-mastery-which-i-personally-use-gn3"><b>Ultimate Guide to the Best Resources, Books, and Problems for DSA Mastery: &quot;Which I Personally Use.&quot;</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/load-balancers-in-microservices-a-beginners-guide-with-code-and-real-life-examples-5a6"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3byjcrxsohwr5n4h0zgj.png" alt="Load Balancers in Microservices: A Beginner's Guide with Code and Real-Life Examples" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/load-balancers-in-microservices-a-beginners-guide-with-code-and-real-life-examples-5a6">Load Balancers in Microservices: A Beginner's Guide with Code and Real-Life Examples</a></b><br />
-      <sub>12 💜 · 3 💬 · 8 min</sub>
+      <b>12 💜 · 3 💬 · 8 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/load-balancers-in-microservices-a-beginners-guide-with-code-and-real-life-examples-5a6"><b>Load Balancers in Microservices: A Beginner's Guide with Code and Real-Life Examples</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/a-deep-dive-into-java-maps-the-ultimate-guide-for-all-developers-oig"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20ns0os8zmd8081btdoe.png" alt="A Deep Dive into Java Maps: The Ultimate Guide for All Developers" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/a-deep-dive-into-java-maps-the-ultimate-guide-for-all-developers-oig">A Deep Dive into Java Maps: The Ultimate Guide for All Developers</a></b><br />
-      <sub>9 💜 · 5 min</sub>
+      <b>9 💜 · 5 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/a-deep-dive-into-java-maps-the-ultimate-guide-for-all-developers-oig"><b>A Deep Dive into Java Maps: The Ultimate Guide for All Developers</b></a>
     </td>
   </tr>
 </table>
@@ -366,20 +346,20 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/why-java-is-still-king-in-backend-in-2025-aur-tum-iske-baap-kaise-bano-4d3f"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsghqws24rlj4n44pkp1j.png" alt="Why Java is Still King in Backend in 2025 (Aur Tum Iske Baap Kaise Bano!)" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/why-java-is-still-king-in-backend-in-2025-aur-tum-iske-baap-kaise-bano-4d3f">Why Java is Still King in Backend in 2025 (Aur Tum Iske Baap Kaise Bano!)</a></b><br />
-      <sub>0 💜 · 5 min</sub>
+      <b>0 💜 · 5 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/why-java-is-still-king-in-backend-in-2025-aur-tum-iske-baap-kaise-bano-4d3f"><b>Why Java is Still King in Backend in 2025 (Aur Tum Iske Baap Kaise Bano!)</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/why-you-should-master-design-patterns-47l8"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgzweripzlexxgekqzo0z.png" alt="Why You Should Master Design Patterns" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/why-you-should-master-design-patterns-47l8">Why You Should Master Design Patterns</a></b><br />
-      <sub>0 💜 · 11 min</sub>
+      <b>0 💜 · 11 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/why-you-should-master-design-patterns-47l8"><b>Why You Should Master Design Patterns</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fac09azml02dml3ipe9fl.png" alt="Spring Security: Lock Down Your APIs" width="100%" /></a><br />
-      <b><a href="https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn">Spring Security: Lock Down Your APIs</a></b><br />
-      <sub>0 💜 · 8 min</sub>
+      <b>0 💜 · 8 min</b><br />
+      <a href="https://dev.to/wittedtech-by-harshit/spring-security-lock-down-your-apis-1hn"><b>Spring Security: Lock Down Your APIs</b></a>
     </td>
   </tr>
 </table>

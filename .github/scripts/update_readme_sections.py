@@ -81,6 +81,17 @@ def esc(s: str) -> str:
 
 
 def card(a: dict) -> str:
+    """One card per post.
+
+    No <sub> anywhere: vertical-align:sub pushes text past the cell box, and
+    GitHub styles tables display:block;overflow:auto, so those few pixels turn
+    into a visible scrollbar.
+
+    Stats sit directly under the image, ABOVE the title. Titles wrap to one,
+    two or three lines depending on length, so a stats line placed after them
+    drifted by up to 38px across a row. Above the title it always lands at the
+    same height, because every thumbnail renders at the same size.
+    """
     title, url = esc(a["title"]), a["url"]
     stats = [f"{a.get('public_reactions_count', 0)} 💜"]
     if a.get("comments_count"):
@@ -88,13 +99,12 @@ def card(a: dict) -> str:
     if a.get("reading_time_minutes"):
         stats.append(f"{a['reading_time_minutes']} min")
     img = thumb(a)
-    art = (f'<a href="{url}"><img src="{img}" alt="{title}" width="100%" /></a><br />'
+    art = (f'<a href="{url}"><img src="{img}" alt="{title}" width="100%" /></a><br />\n      '
            if img else "")
     return (
-        f'    <td width="33%" valign="top">\n'
-        f'      {art}\n'
-        f'      <b><a href="{url}">{title}</a></b><br />\n'
-        f'      <sub>{" · ".join(stats)}</sub>\n'
+        f'    <td width="33%" valign="top" align="left">\n'
+        f'      {art}<b>{" · ".join(stats)}</b><br />\n'
+        f'      <a href="{url}"><b>{title}</b></a>\n'
         f'    </td>'
     )
 
