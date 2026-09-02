@@ -2,7 +2,7 @@ name: Update Dev.to Blog Posts
 
 # Replaces gautamkrishnar/blog-post-workflow. That action reads the RSS feed,
 # which is chronological only — it cannot rank by engagement. The Dev.to API
-# exposes reaction and comment counts, so .github/scripts/update_blog_section.py
+# exposes reaction and comment counts, so .github/scripts/update_readme_sections.py
 # sorts on those and writes three tiers between the BLOG-POST-LIST markers.
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
           python-version: "3.12"
 
       - name: Rebuild blog section
-        run: python .github/scripts/update_blog_section.py
+        run: python .github/scripts/update_readme_sections.py
 
       - name: Commit if changed
         run: |
