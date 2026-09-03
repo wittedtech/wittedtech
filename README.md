@@ -238,11 +238,11 @@
 | Repository | Language | What it is | Last push |
 |---|---|---|---|
 | **[wittedtech](https://github.com/wittedtech/wittedtech)** ⭐2 | `—` | Config files for my GitHub profile. | today |
+| **[playground](https://github.com/wittedtech/playground)** | `—` | — | today |
 | **[System-Design-Content-Collection](https://github.com/wittedtech/System-Design-Content-Collection)** | `—` | This repo is complete collection of Content generated from… | 15 days ago |
 | **[wittedTech_Job_Hunter](https://github.com/wittedtech/wittedTech_Job_Hunter)** | `—` | — | 15 days ago |
 | **[neetcode-submissions](https://github.com/wittedtech/neetcode-submissions)** | `Java` | My NeetCode.io problem submissions | 1 mo ago |
 | **[cold-mailing-made-easy](https://github.com/wittedtech/cold-mailing-made-easy)** | `Java` | Simple Cold email Web Application Using Java and Java Mail… | 1 year ago |
-| **[WitPromptix](https://github.com/wittedtech/WitPromptix)** | `TypeScript` | — | 1 year ago |
 <!-- RECENT-REPOS:END -->
 
 
