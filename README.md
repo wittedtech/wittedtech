@@ -238,9 +238,9 @@
 | Repository | Language | What it is | Last push |
 |---|---|---|---|
 | **[wittedtech](https://github.com/wittedtech/wittedtech)** ⭐2 | `—` | Config files for my GitHub profile. | today |
-| **[playground](https://github.com/wittedtech/playground)** | `—` | — | 13 days ago |
-| **[System-Design-Content-Collection](https://github.com/wittedtech/System-Design-Content-Collection)** | `—` | This repo is complete collection of Content generated from… | 28 days ago |
-| **[wittedTech_Job_Hunter](https://github.com/wittedtech/wittedTech_Job_Hunter)** | `—` | — | 28 days ago |
+| **[playground](https://github.com/wittedtech/playground)** | `—` | — | 14 days ago |
+| **[System-Design-Content-Collection](https://github.com/wittedtech/System-Design-Content-Collection)** | `—` | This repo is complete collection of Content generated from… | 29 days ago |
+| **[wittedTech_Job_Hunter](https://github.com/wittedtech/wittedTech_Job_Hunter)** | `—` | — | 29 days ago |
 | **[neetcode-submissions](https://github.com/wittedtech/neetcode-submissions)** | `Java` | My NeetCode.io problem submissions | 1 mo ago |
 | **[cold-mailing-made-easy](https://github.com/wittedtech/cold-mailing-made-easy)** | `Java` | Simple Cold email Web Application Using Java and Java Mail… | 1 year ago |
 <!-- RECENT-REPOS:END -->
@@ -263,7 +263,7 @@
     </td>
     <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/the-best-microservices-design-patterns-explained-like-youre-ordering-pizza-12pg"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8s2fyfyhqn1z9aaymcgr.png" alt="The Best Microservices Design Patterns Explained Like You’re Ordering Pizza" width="100%" /></a><br />
-      <b>38 💜 · 15 💬 · 6 min</b><br />
+      <b>39 💜 · 15 💬 · 6 min</b><br />
       <a href="https://dev.to/wittedtech-by-harshit/the-best-microservices-design-patterns-explained-like-youre-ordering-pizza-12pg"><b>The Best Microservices Design Patterns Explained Like You’re Ordering Pizza</b></a>
     </td>
     <td width="33%" valign="top" align="left">
