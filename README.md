@@ -258,7 +258,7 @@
   <tr>
     <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcfriq6xh3nni41gu48he.png" alt="System Design of YouTube: A Detailed Deep Dive into the Video Giant" width="100%" /></a><br />
-      <b>142 💜 · 12 💬 · 6 min</b><br />
+      <b>143 💜 · 12 💬 · 6 min</b><br />
       <a href="https://dev.to/wittedtech-by-harshit/system-design-of-youtube-a-detailed-deep-dive-into-the-video-giant-5019"><b>System Design of YouTube: A Detailed Deep Dive into the Video Giant</b></a>
     </td>
     <td width="33%" valign="top" align="left">
