@@ -281,7 +281,7 @@
   <tr>
     <td width="33%" valign="top" align="left">
       <a href="https://dev.to/wittedtech-by-harshit/ultimate-guide-to-the-best-resources-books-and-problems-for-dsa-mastery-which-i-personally-use-gn3"><img src="https://media2.dev.to/dynamic/image/width=440,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F85zi2m89f0apvob6zal3.jpg" alt="Ultimate Guide to the Best Resources, Books, and Problems for DSA Mastery: &quot;Which I Personally Use.&quot;" width="100%" /></a><br />
-      <b>13 💜 · 9 min</b><br />
+      <b>14 💜 · 9 min</b><br />
       <a href="https://dev.to/wittedtech-by-harshit/ultimate-guide-to-the-best-resources-books-and-problems-for-dsa-mastery-which-i-personally-use-gn3"><b>Ultimate Guide to the Best Resources, Books, and Problems for DSA Mastery: &quot;Which I Personally Use.&quot;</b></a>
     </td>
     <td width="33%" valign="top" align="left">
